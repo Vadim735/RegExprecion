@@ -7,9 +7,7 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
 
-    <groupId>RegexpDTO</groupId>
     <artifactId>regexp-ejb</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
     <packaging>ejb</packaging>
 
     <name>regexp-ejb</name>
